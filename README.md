@@ -1,2 +1,5 @@
 # BigQuery
-Guided workbook for big data systems, specifically looking into BigQuery on the Good Cloud Platform (GCP)
+
+Guided workbook for big data systems, specifically looking into BigQuery on the Google Cloud Platform (GCP).
+
+> Original repository: https://github.com/ta-data-par/bigquery
